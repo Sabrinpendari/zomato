@@ -1,0 +1,17 @@
+h1{
+    background-color: brown;
+    /*width: 200px;*/
+   /* padding-left: 200;
+    padding-top:300;
+    padding-right: 250;
+    padding-bottom: 350;
+    /*short hand proprety*/
+   /* padding: 10px 20px 30px 40px;*/
+    padding: 50px;
+   /* margin-left: 150px;
+    margin-top: 10px;
+    margin-right:50;
+    margin-bottom: 30;*/
+    /*shorthand property */
+    margin: 300;
+}
